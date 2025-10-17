@@ -21,4 +21,4 @@ Kaggle.com
 🔍 Interactive Filtering – Allows users to explore data through dynamic slicers for outlet type, item type, and fat content.
 📈 Data-Driven Decisions – Helps identify sales trends and areas for business improvement.
 
-6. Screenshot/Demos: 
+6. Screenshot/Demos: https://github.com/dasmanav034-code/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard%20screenshot.png
